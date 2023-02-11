@@ -101,7 +101,7 @@ header::after {
 }
 
 .logo {
-  float: left;
+  float: right;
   padding: 10px 0;
   height: 50px;
 }
@@ -229,3 +229,6 @@ button {
 	color: #A29190;
 }
 
+.btn-secondary {
+	color: #16E93C;
+}
